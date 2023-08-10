@@ -39,6 +39,8 @@ include('layout/header.php');
                             <hr>
                             <p>Um filtro é uma lista de condições em que cada entrada deve atender para poder ser exibida. Você pode configurar três tipos de filtros no submenu. Selecione as colunas nas quais deseja aplicar o filtro e em seguida vá ao menu <strong>Dados → Autofiltro</strong>.</p>
 
+                            <p>adicionado alteração</p>
+
                             <p>Filtros automáticos adicionam uma lista de seleção na linha de topo da coluna que contém os filtros mais utilizados. Eles são rápidos, convenientes e úteis com textos e números, porque cada lista contém cada entrada única nas células selecionadas.</p>
 
                             <p>Além dessas entradas únicas, filtros automáticos incluem a opção de exibir todas as entradas, os dez maiores valores numéricos, e todas as células vazias, ou as preenchidas, assim como um filtro padrão. Os filtros automáticos são um pouco limitados. Em particular, eles não permitem expressões regulares. Portanto, você não pode utilizá-los para exibir células com conteúdo semelhante, mas não idênticos.</p>
